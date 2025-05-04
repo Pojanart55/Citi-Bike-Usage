@@ -14,6 +14,7 @@ The interactive story and dashboard are published on Tableau Public and can be a
 
 * **Citi Bike Analysis (Nov-Dec 2024).twbx:** The Tableau Public workbook containing the interactive dashboard and the story presenting the key findings.
 * **README.md:** This file providing an overview of the project.
+* **Trip data** files: due to the large volumne, files can be access via this link https://drive.google.com/file/d/1STQN-HERoUZEJODznorTkl0YKum67DDe/view?usp=sharing
 
 ## Dashboard Structure
 
